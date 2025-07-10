@@ -1,1 +1,1 @@
-in this project i will create an HTML page about cookies , after completing it i will have some html skills
+in this project i will create an HTML page about recipes , after completing it i will have some html skills
